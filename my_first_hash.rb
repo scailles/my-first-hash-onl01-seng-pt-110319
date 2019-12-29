@@ -33,6 +33,6 @@ shipping_manifest["muskets"]=>2
 shipping_manifest["gun powder"]=>4
 
   # return the shipping_manifest hash below
-return shipping_manifest
+shipping_manifest
 end
 
