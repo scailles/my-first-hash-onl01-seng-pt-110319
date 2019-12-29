@@ -19,6 +19,8 @@ puts shipping_manifest[3]
 end
 end
 
+
+def adding
   shipping_manifest = {
                   "whale bone corsets" => 5, 
                   "porcelain vases" => 2, 
